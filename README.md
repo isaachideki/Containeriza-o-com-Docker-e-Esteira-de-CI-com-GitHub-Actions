@@ -3,7 +3,7 @@
 Trabalho prático individual para containerização com Docker, orquestração com Docker Compose, automação de CI com GitHub Actions e qualidade de código com ESLint, Prettier e Husky da matéria de ntrodução à Integração e Entrega Contínua (IEC).
 ## 📌 Sobre a Aplicação
 
-A **Diesel Vehicles API** é uma API RESTful desenvolvida para o cadastro e gerenciamento de **veículos movidos a diesel**. A aplicação permite cadastrar, consultar, atualizar e excluir veículos, armazenando informações como placa, marca, modelo, ano, capacidade de carga, quilometragem, tipo de combustível e status.
+A **DieselParts API** é uma API RESTful desenvolvida para o cadastro e gerenciamento de **veículos movidos a diesel**. A aplicação permite cadastrar, consultar, atualizar e excluir veículos, armazenando informações como placa, marca, modelo, ano, capacidade de carga, quilometragem, tipo de combustível e status.
 
 ## 📁 Estrutura do Repositório
 
